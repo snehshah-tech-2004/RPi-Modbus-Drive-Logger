@@ -1,0 +1,6 @@
+client_secrets.json
+credentials.json
+calibration_settings.txt
+*.pyc
+__pycache__/
+Scanner_Files/

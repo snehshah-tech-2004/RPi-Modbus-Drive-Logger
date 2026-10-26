@@ -1,0 +1,14 @@
+log_interval:5
+division_factor:10
+port:/dev/ttyACM0
+baudrate:9600
+parity:N
+stopbits:1
+bytesize:8
+timeout:0.5
+register_address:0
+register_count:8
+slave_ids:2,3 
+folder_id: YOUR_DRIVE_FOLDER_ID
+clamp_max:20000
+clamp_min:-250
